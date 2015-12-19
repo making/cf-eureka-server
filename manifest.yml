@@ -1,0 +1,6 @@
+---
+applications:
+- name: eureka-server
+  path: target/cf-eureka-server.jar
+  host: eureka-server
+  memory: 256M
